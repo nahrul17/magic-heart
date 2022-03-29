@@ -4,8 +4,8 @@ from random import choice
 from telethon import TelegramClient
 from telethon.events import NewMessage
 
-APP_ID = 1252636
-API_HASH = '4037e9f957f6f17d461b0c288ffa50f1'
+APP_ID = 10575293
+API_HASH = '3710d70236fad75313b8cb0613bdc152'
 
 HEART = '❤️'
 COLORED_HEARTS = ['💚', '💙', '💜', '🖤', '🤍', '🤎']
